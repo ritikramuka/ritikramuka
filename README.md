@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">😉 Hey! Nice to see you.</h1>
 <h3 align="center">I'm Ritik Ramuka CS Undergrad</h3>
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://in.linkedin.com/in/ritik-ramuka-018b6318b/)
