@@ -1,8 +1,8 @@
 <h1 align="center">😉 Hey! Nice to see you.</h1>
 <h3 align="center">I'm Ritik Ramuka CS Undergrad</h3>
 
-[<img align="left" alt="LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://in.linkedin.com/in/ritik-ramuka-018b6318b/)
-[<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="25px">](mailto:ritik.ramuka@gmail.com)
+[<img align="left" alt="LinkedIn" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://in.linkedin.com/in/ritik-ramuka-018b6318b/)
+[<img alt="Gmail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width="25px">](mailto:ritik.ramuka@gmail.com)
 [<img align="right" alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/RitikRamuka/)
 <br>
 
